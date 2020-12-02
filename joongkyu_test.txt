@@ -1,2 +1,5 @@
 joongkyu_test_github
 https://github.com/JoongQ96
+
+Cho-Myhyang
+https://github.com/ChoMihyang/team-repo.git
